@@ -133,6 +133,33 @@ The Metroville urban rail expansion project aims to enhance the city's rail infr
 **Know Your Audience:**
 - **Tip**: Tailor the complexity and focus of your visuals based on stakeholder needs—different groups may require different levels of detail.
 
-![Budget](assets/image.png)
+![Budget](../images/budget.png)
 
-![Track Installation](assets/image-1.png)
+
+![Track Installation](../images/trackinstal.png)
+
+## Skills and Principles Applied
+
+### Data Analysis
+- **Comparative Analysis**: Identifying trends over time to assess progress and potential issues.
+- **Risk Identification**: Using quantitative and qualitative data to spot potential risks early.
+- **Summarization Techniques**: Condensing complex information without losing critical insights.
+
+### Project Management
+- **Construction Progress Tracking**: Monitoring physical progress, ensuring milestones are met.
+- **Budget and Cost Tracking**: Keeping financial aspects in check, comparing budgeted vs. actual costs.
+- **Quality Assurance Tracking**: Ensuring adherence to quality and safety standards.
+- **Stakeholder Engagement Tracking**: Monitoring interactions with the community and other stakeholders.
+- **Environmental Impact Tracking**: Assessing and mitigating the project's ecological footprint.
+
+### Visual Communication
+- **Dashboard Design**: Creating intuitive and uncluttered visual interfaces.
+- **Infographics**: Using graphics, charts, and brief texts for engaging storytelling.
+- **Gantt Charts**: Visualizing project schedules and task relationships over time.
+- **Maps and Geographic Visualizations**: Providing spatial context to project progress.
+- **Time-lapse Videos**: Capturing and presenting dynamic views of project progress.
+
+### Presentation Enhancement
+- **Clarity**: Avoiding clutter and using simple, direct visuals.
+- **Consistent Style**: Maintaining a cohesive appearance with consistent design elements.
+- **Audience Awareness**: Tailoring visuals to the specific needs of different stakeholder groups.
